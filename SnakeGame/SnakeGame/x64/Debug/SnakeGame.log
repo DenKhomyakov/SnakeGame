@@ -1,0 +1,13 @@
+﻿  GameForm.cpp
+D:\Software Tools\SnakeGame\SnakeGame\SnakeGame\GameForm.h(36,16): warning C4490: override: неправильное использование спецификатора переопределения; "SnakeGame::GameForm::OnPaint" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "GameForm.cpp")
+      D:\Software Tools\SnakeGame\SnakeGame\SnakeGame\GameForm.h(36,16):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+  
+D:\Software Tools\SnakeGame\SnakeGame\SnakeGame\GameForm.h(116,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "GameForm.cpp")
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  GameForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  SnakeGame.vcxproj -> D:\Software Tools\SnakeGame\SnakeGame\x64\Debug\SnakeGame.exe

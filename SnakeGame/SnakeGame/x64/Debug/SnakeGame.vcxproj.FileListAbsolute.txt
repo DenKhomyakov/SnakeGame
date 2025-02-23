@@ -1,0 +1,6 @@
+D:\Software Tools\Visual Studio 2022\3. School-IT-Cool\SnakeGame\SnakeGame\x64\Debug\SnakeGame.vcxproj.AssemblyReference.cache
+D:\Software Tools\Visual Studio 2022\3. School-IT-Cool\SnakeGame\SnakeGame\x64\Debug\SnakeGame.GameForm.resources
+D:\Software Tools\Visual Studio 2022\3. School-IT-Cool\SnakeGame\SnakeGame\x64\Debug\SnakeGame.vcxproj.GenerateResource.cache
+D:\Software Tools\SnakeGame\SnakeGame\SnakeGame\x64\Debug\SnakeGame.vcxproj.AssemblyReference.cache
+D:\Software Tools\SnakeGame\SnakeGame\SnakeGame\x64\Debug\SnakeGame.GameForm.resources
+D:\Software Tools\SnakeGame\SnakeGame\SnakeGame\x64\Debug\SnakeGame.vcxproj.GenerateResource.cache
